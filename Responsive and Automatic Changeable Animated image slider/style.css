@@ -6,7 +6,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
-/* Header section */
+
 
 header{
     width: 100%; 
@@ -38,11 +38,11 @@ a:hover{
     border-radius: 2px;
 }
 
-/* Header section */
 
 
 
-/* carousel */
+
+
 
 .carousel{
     width: 100vw;
@@ -197,14 +197,7 @@ a:hover{
     }
 }
 
-/* Carousel */
 
-
-
-
-
-
-/* next prev arrows */
 
 .arrows{
     position: absolute;
@@ -239,7 +232,6 @@ a:hover{
 }
 
 
-/* time running */
 .carousel .timeRunning{
     position: absolute;
     z-index: 1000;
@@ -259,7 +251,6 @@ a:hover{
 }
 
 
-/* Responsive Design */
 
 @media screen and (max-width: 999px){
     

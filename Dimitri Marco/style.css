@@ -22,7 +22,7 @@ body {
   background: radial-gradient(rgba(43, 55, 96, 1), rgba(11, 16, 35, 1));
 }
 
-/* header */
+
 
 nav {
   min-height: 10vh;
@@ -38,7 +38,7 @@ nav {
   font-size: 1.25rem;
 }
 
-/* main */
+
 
 .page {
   min-height: 90vh;
@@ -103,7 +103,7 @@ nav {
   padding: 20px 0 50px;
 }
 
-/* slider */
+
 
 .pages {
   position: absolute;
@@ -145,8 +145,6 @@ nav {
     transform: scale(4);
   }
 }
-
-/* menu */
 
 .nav-open {
   position: absolute;
@@ -192,7 +190,7 @@ nav {
   cursor: pointer;
 }
 
-/* media queries */
+
 
 @media (max-width: 1024px) {
   .page {

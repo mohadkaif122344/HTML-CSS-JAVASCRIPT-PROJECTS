@@ -1,5 +1,5 @@
 function init() {
-    // slider
+  
     const slides = document.querySelectorAll(".slide");
     const pages = document.querySelectorAll(".page");
     const backgrounds = [
@@ -34,7 +34,7 @@ function init() {
       const portfolio = document.querySelector(".portfolio");
   
       const tl = new TimelineMax({
-        // disable clicks during animations
+        
         onStart: function () {
           slides.forEach((slide) => (slide.style.pointerEvents = "none"));
         },
@@ -77,14 +77,13 @@ function init() {
   
     function scrollChange(e) {
       e.deltaY > 0 ? (scrollSlide += 1) : (scrollSlide -= 1);
-      // reset
+      
       if (scrollSlide > 2) scrollSlide = 0;
       if (scrollSlide < 0) scrollSlide = 2;
       swithDots(scrollSlide);
       nextSlide(scrollSlide);
     }
-  
-    //   menu
+
     const hamburger = document.querySelector(".menu");
     const hamburgerLines = document.querySelectorAll(".menu line");
     const navOpen = document.querySelector(".nav-open");
@@ -111,7 +110,7 @@ function init() {
     });
   }
   
-  // avoid multiple firing
+  
   function throttle(func, limit) {
     let inThrottle;
     return function () {
