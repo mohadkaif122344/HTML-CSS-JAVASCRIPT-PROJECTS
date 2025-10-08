@@ -90,4 +90,8 @@ A personal portfolio website to showcase your projects and skills.
 1. Clone this repository:
    ```bash
    git clone https://github.com/mohadkaif122344 / HTML-CSS-JAVASCRIPT-PROJECTS.git
+   
+ 2. Open the folder of any project.
+
+3. Open the index.html file in your browser.
 
