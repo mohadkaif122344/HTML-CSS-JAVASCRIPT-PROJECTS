@@ -71,6 +71,8 @@ A simple but powerful to-do list application to manage daily tasks.
 
 A responsive and visually appealing Cake Shop website built using **HTML**, **CSS**, and **JavaScript**. This project allows users to browse bakery products, view promotions, and contact the bakery.
 
+https://github.com/mohadkaif122344/HTML-CSS-JAVASCRIPT-PROJECTS/tree/main/Cake%20Shop%20Website
+
 #### Features
 - **Home Slider:** Showcases main promotional offers with navigation arrows.
 - **Product Section:** Displays bakery products with hover effects and quick actions (cart, wishlist, view).
