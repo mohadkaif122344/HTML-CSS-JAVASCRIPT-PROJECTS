@@ -6,7 +6,7 @@ This repository contains a collection of frontend projects built using **HTML**,
 
 ## 📁 Projects Included
 
-### 1️⃣ Dimitri Marco
+## 1️.Dimitri Marco
 A simple landing page designed to showcase a modern and elegant interface for personal or brand use.
 
 **Features:**
@@ -21,7 +21,7 @@ A simple landing page designed to showcase a modern and elegant interface for pe
 
 ---
 
-### 2️⃣ Responsive & Automatic Changeable Animated Image Slider
+## 2️.Responsive & Automatic Changeable Animated Image Slider
 A fully responsive **image slider** that automatically changes images with smooth animations.
 
 **Features:**
@@ -36,7 +36,7 @@ A fully responsive **image slider** that automatically changes images with smoot
 
 ---
 
-### 3️⃣ Tip Calculator 💰
+## 3️.Tip Calculator �
 An interactive calculator that helps users quickly calculate tips and total amounts based on the bill.
 
 **Features:**
@@ -51,7 +51,7 @@ An interactive calculator that helps users quickly calculate tips and total amou
 
 ---
 
-### 4️⃣ To-Do List ✅
+## 4️.To-Do List ✅
 A simple but powerful to-do list application to manage daily tasks.
 
 **Features:**
@@ -67,8 +67,34 @@ A simple but powerful to-do list application to manage daily tasks.
 
 ---
 
+## 5.Cake Shop Website
 
-### 6️⃣ Portfolio Website 🌟
+A responsive and visually appealing Cake Shop website built using **HTML**, **CSS**, and **JavaScript**. This project allows users to browse bakery products, view promotions, and contact the bakery.
+
+#### Features
+- **Home Slider:** Showcases main promotional offers with navigation arrows.
+- **Product Section:** Displays bakery products with hover effects and quick actions (cart, wishlist, view).
+- **Categories:** Highlighted bakery categories like cupcakes, cookies, and bread.
+- **About Section:** Detailed bakery description with an image.
+- **Contact Form:** Users can send messages to the bakery.
+- **Responsive Navigation:** Hamburger menu for mobile devices.
+- **Footer:** Quick links, social media links, and newsletter subscription.
+
+  #### Features
+- **Home Slider:** Showcases main promotional offers with navigation arrows.
+- **Product Section:** Displays bakery products with hover effects and quick actions (cart, wishlist, view).
+- **Categories:** Highlighted bakery categories like cupcakes, cookies, and bread.
+- **About Section:** Detailed bakery description with an image.
+- **Contact Form:** Users can send messages to the bakery.
+- **Responsive Navigation:** Hamburger menu for mobile devices.
+- **Footer:** Quick links, social media links, and newsletter subscription.
+
+**Technologies Used:**  
+`HTML` | `CSS` | `JavaScript`
+  
+---
+
+## 6️.Portfolio Website 🌟
 A personal portfolio website to showcase your projects and skills.
 
 **Features:**
