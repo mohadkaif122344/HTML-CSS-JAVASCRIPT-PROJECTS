@@ -89,9 +89,14 @@ A responsive and visually appealing Cake Shop website built using **HTML**, **CS
 - **Responsive Navigation:** Hamburger menu for mobile devices.
 - **Footer:** Quick links, social media links, and newsletter subscription.
 
-**Technologies Used:**  
-`HTML` | `CSS` | `JavaScript`
-  
+#### Technologies Used
+- **HTML5** – Structure and content
+- **CSS3** – Styling and layout
+- **JavaScript** – Interactive functionality (slider, menu toggle)
+- **Font Awesome** – Icons for navigation, social media, and actions
+
+  <img width="1908" height="1003" alt="Screenshot 2025-10-12 210702" src="https://github.com/user-attachments/assets/ce8ca37f-a79c-4c2e-85dd-a592835d7f98" />
+
 ---
 
 ## 6️.Portfolio Website 🌟
