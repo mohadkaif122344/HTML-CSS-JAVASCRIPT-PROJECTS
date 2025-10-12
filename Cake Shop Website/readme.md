@@ -36,10 +36,13 @@ The design is fully responsive and includes interactive elements using JavaScrip
 
 ---
 
-![Uploading Screenshot 2025-10-12 210702.png…]()
+<img width="1908" height="1003" alt="Screenshot 2025-10-12 210702" src="https://github.com/user-attachments/assets/fb205166-086e-4b42-a863-b7e6f4bef7ad" />
 
-![Uploading Screenshot 2025-10-12 210719.png…]()
+<img width="1880" height="1012" alt="Screenshot 2025-10-12 210719" src="https://github.com/user-attachments/assets/b8ddb1ac-9f6b-4e47-be8f-4bdd2071bd88" />
 
-![Uploading Screenshot 2025-10-12 210731.png…]()
 
-![Uploading Screenshot 2025-10-12 210750.png…]()
+
+<img width="1911" height="1009" alt="Screenshot 2025-10-12 210731" src="https://github.com/user-attachments/assets/2937318c-7a87-4f1f-aad9-cd4b019fd995" />
+
+<img width="1911" height="1009" alt="Screenshot 2025-10-12 210731" src="https://github.com/user-attachments/assets/f041e9e5-7085-465b-8439-105ca68094bb" />
+
